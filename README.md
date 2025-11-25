@@ -6,8 +6,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kareemmedhatgabr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareemmedhatgabr" height="30" width="40" /></a>
+  
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img align="center" src="https://github.com/kareemmedhatgabr/KareemMedhat/blob/main/Social%20Icon/gmail-4561841_1920.png" height="30" width="40" alt="gmail logo" /></a>
-<a href="https://wa.me/201559133511" target="_blank" rel="noopener" aria-label="WhatsApp"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/whatsapp.svg?short_path=5481660" alt="whatsaap" height="30" width="40" viewBox="0 0 240 240" /></a>
+
+<a href="https://wa.me/201559133511" target="_blank" rel="noopener" aria-label="WhatsApp"><img align="center" src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="48" alt="whatsaap" width="40" viewBox="0 0 240 240" /></a>
+
 <a href="https://t.me/+201559133511" target="_blank" rel="noopener" aria-label="Telegram"> <img align="center" src="https://github.com/kareemmedhatgabr/KareemMedhat/blob/main/Social%20Icon/telegram-6896827_1920.png" height="30" width="40" /></a>
 </p>
 
