@@ -1,7 +1,6 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I+am+Kareem+Medhat;Full Stack+Developer;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I+am+Kareem+Medhat+Full+Stack+Developer+Nice+to+meet+you" alt="Typing SVG" /></a>
+  
 </h1>
 <h3 align="center">Full Stack | Frontend Specialist | JS | TS | React | Vue | PHP | Python | Laravel | Django | Bootstrap | Tailwind | jQuery</h3>
 
