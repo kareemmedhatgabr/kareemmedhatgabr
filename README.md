@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kareem Medhat</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I+am+Kareem+Medhat;Full Stack+Developer;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">Full Stack | Frontend Specialist | JS | TS | React | Vue | PHP | Python | Laravel | Django | Bootstrap | Tailwind | jQuery</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareemmedhatgabr&label=Profile%20views&color=0e75b6&style=flat" alt="kareemmedhatgabr" /> </p>
@@ -49,3 +53,5 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemmedhatgabr&show_icons=true&locale=en&layout=compact" alt="kareemmedhatgabr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareemmedhatgabr&" alt="kareemmedhatgabr" /></p>
